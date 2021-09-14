@@ -1,2 +1,2 @@
 .page{display:grid;grid-template:auto/1fr 400px;grid-column-gap:20px;-webkit-column-gap:20px;column-gap:20px;min-height:100vh}.page-content,.sidebar{padding:20px}.sidebar{border-left:1px solid #d3d3d3}.control{padding-bottom:10px}.control-button{font-family:"Gill Sans","Gill Sans MT",Calibri,"Trebuchet MS",sans-serif;cursor:pointer;transition:.2s linear}.control-button:hover{background-color:#a9a9a9;border:1px solid #a9a9a9;border-radius:1px}.movies{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));grid-gap:20px;gap:20px}.card-image img{object-fit:contain}
-/*# sourceMappingURL=main.460d3cc9.chunk.css.map */
+/*# sourceMappingURL=main.e9b29d04.chunk.css.map */
